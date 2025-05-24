@@ -1,8 +1,8 @@
 # Exercise-10-Email-Automation---send-email
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : FRANKLIN.F  
+Reg.No : 212224240041 
 ~~~
 
 ## Aim
@@ -53,7 +53,8 @@ An email will be delivered to the recipient with the subject and message body sp
 
 ![Screenshot 2025-05-12 090358](https://github.com/user-attachments/assets/3373b9ee-358d-4f6a-97f3-7de74e15912f)
 
-![Screenshot 2025-05-12 090552](https://github.com/user-attachments/assets/85d91a88-5d83-4ae9-a8ee-f1eed8c67373)
+![image](https://github.com/user-attachments/assets/70f102fb-87e2-4574-b221-e7a6fcacbcea)
+
 
 ## Result:
 The UiPath workflow successfully sends an email from a Gmail account using SMTP configuration.
